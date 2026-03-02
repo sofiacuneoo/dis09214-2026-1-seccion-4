@@ -12,7 +12,7 @@ esta sección es impartida por profesore aarón montoya, en conjunto con ayudant
 | 2 | poli mujica       | viernes 10:00am - 12:50pm |                                                          |
 | 3 | sofía suazo       | viernes 10:00am - 12:50pm |                                                          |
 | 4 | aarón montoya     | viernes 02:30pm - 05:20pm | <https://github.com/disenoUDP/dis09214-2026-1-seccion-4> |
-| 5 | matías serrano    | viernes 02:30pm - 05:20pm |                                                          |
+| 5 | matías serrano    | viernes 02:30pm - 05:20pm | <https://github.com/disenoUDP/dis09214-2026-1-seccion-5> |
 | 6 | sofía suazo       | viernes 02:30pm - 05:20pm |                                                          |
 
 ## contenido
