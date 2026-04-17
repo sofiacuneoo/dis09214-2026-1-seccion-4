@@ -1,4 +1,4 @@
 # sesion-01
 
 ## un subtítulo
-![imagens.jpg](./imagens.jpg)
+![imagens.jpg](./images.jpg)
